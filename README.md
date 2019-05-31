@@ -1,2 +1,2 @@
-# hash-testing
-Testing hashes for text based game.
+# Hash Testing
+Are you really here? Because, if you are, and you aren't me, then I'm a bit confused considering that this is more for personal reasons, and I just don't want to make it private because I'm paranoid that someday, aliens will need a hash code to save their planet. In fact, it would be a hash SO simple, that they overcomplicated its development. However, if I decided to make this private, they couldn't get access to the hash and they all die. This is an actual fear I have. Anyways, this is for seeing if hashes work for a text based-game that I'm making. Whew, that was a whole lot of something for absolutely nothing, huh? I'm going to go get some Kool-Aid Jammers, now. Cya.
